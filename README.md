@@ -24,3 +24,10 @@ This command will start an ngrok server on your local machine on port 80 and set
 It is a common problem that developers face that ngrok everytime assigns you a new url whenever you restart ngrok, to avoid this there are two options,
  * Get yourself a paid plan of ngrok, which you can choose from: https://dashboard.ngrok.com/billing/plan
  * You can install `screen` on your server, and run ngrok in the background.
+
+
+# Run ngrok on your own domain
+
+`ngrok http -region=us -hostname=dev.example.com 8000`
+
+This saves some money, You can  use your own machine at home to host your website.
