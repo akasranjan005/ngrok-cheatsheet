@@ -31,3 +31,13 @@ It is a common problem that developers face that ngrok everytime assigns you a n
 `ngrok http -region=us -hostname=dev.example.com 8000`
 
 This saves some money, You can  use your own machine at home to host your website.
+
+## Use ngrok subdomain feature
+
+`ngrok http -subdomain=yourdomain 80`
+
+This saves your money of buying a domain name
+
+
+# NGROK Alternative
+
