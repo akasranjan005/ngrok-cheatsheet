@@ -41,3 +41,7 @@ This saves your money of buying a domain name
 
 # NGROK Alternative
 
+* Local Tunnel
+https://localtunnel.me/
+
+The only problem i have heard of so far about local tunnel is about its uptime.
